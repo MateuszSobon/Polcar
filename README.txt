@@ -6,3 +6,4 @@ Tabela z zadaniem o kolumnach (task_id, task_priority, task_user_id, task_date_a
 Tabela z statusami zadania - zmiany o kolumnach (status_id, status_opis, status_user_id) 
 Tabela z statusami zadań (status_id, status_opis, aud_data, aud_login)
 
+Dodałem podstawowe procedury, stworzyłem szkielet bazy, który można w łatwy sposób rozwijać.
